@@ -1,4 +1,4 @@
-Names,Age,Total_Purchase,Account_Manager,Years,Num_Sites,Onboard_date,Location,Company,Churn
+Names,Age,Total_Purchase,Account_Manager,Years,Num_Sites,Onboard_date,Location,Company
 Andrew Mccall,37.0,9935.53,1,7.71,8.0,2011-08-29 18:37:54,"38612 Johnny Stravenue Nataliebury, WI 15717-8316",King Ltd
 Michele Wright,23.0,7526.94,1,9.28,15.0,2013-07-22 18:19:54,"21083 Nicole Junction Suite 332, Youngport, ME 23686-4381",Cannon-Benson
 Jeremy Chang,65.0,100.0,1,1.0,15.0,2006-12-11 07:48:13,"085 Austin Views Lake Julialand, WY 63726-4298",Barron-Robertson
